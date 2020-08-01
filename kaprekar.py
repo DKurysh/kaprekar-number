@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
-def numerics(n):
+def numerics(n):        #convert 4-digit number in a list of 4 digits
     s = str(n)
     l = len(s)
     if l < 4:
