@@ -49,22 +49,3 @@ if __name__ == '__main__':
         if input_check(n):
             kaprekar_loop(n)
             done = True
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
