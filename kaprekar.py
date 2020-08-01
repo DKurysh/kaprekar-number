@@ -26,7 +26,7 @@ def input_check(n):
         return False
     return True
 
-def kaprekar_loop(initial_n):
+def kaprekar_loop(initial_n):     #repeat Kaprekar step until it converges to Kaprekar number 6174
     n = initial_n
     i = 0
     while n != 6174:
